@@ -1,1 +1,1 @@
-# DeatlyEkonomi
+# Ekonomi
